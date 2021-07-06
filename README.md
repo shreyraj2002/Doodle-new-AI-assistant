@@ -11,4 +11,8 @@ Note:
     
     3.wikipedia
 
+    or
+
+    run: pip install -r requirements.txt  in your shell or terminal
+
 All the installation code is given inside code...
